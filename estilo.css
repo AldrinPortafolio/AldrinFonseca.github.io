@@ -26,13 +26,7 @@ html{
     align-items: center;
     padding: 15px 20px;
 }
-.google-form {
-    width: 100%; /* Ajusta el ancho del formulario */
-    max-width: 600px; /* Máximo ancho del formulario */
-    height: 500px; /* Ajusta la altura del formulario */
 
-
-}
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
