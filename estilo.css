@@ -39,6 +39,12 @@ html{
     margin-left: 8px;
 }
 
+/* Asegurarse de que no haya subrayado en el botón */
+.whatsapp-button button:focus {
+    outline: none;
+}
+
+
 
 .contenedor-header header{
     max-width: 1100px;
